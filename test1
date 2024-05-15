@@ -1,7 +1,0 @@
-print("hello world")
-print("hello world")
-
-c = 10
-d = 20
-
-print(c + d)
